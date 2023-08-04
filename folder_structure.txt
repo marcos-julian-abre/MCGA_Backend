@@ -1,0 +1,25 @@
+Folder PATH listing
+Volume serial number is 6882-2349
+C:.
+³   folder_structure.txt
+³   server.js
+³   
+ÃÄÄÄconfig
+³       db.js
+³       
+ÃÄÄÄcontrollers
+³       goalController.js
+³       userController.js
+³       
+ÃÄÄÄmiddleware
+³       authMiddleware.js
+³       errorMiddleware.js
+³       
+ÃÄÄÄmodels
+³       goalModel.js
+³       userModel.js
+³       
+ÀÄÄÄroutes
+        goalRoutes.js
+        userRoutes.js
+        
